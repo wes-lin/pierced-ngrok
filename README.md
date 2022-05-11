@@ -23,4 +23,9 @@ cd pierced-ngrok
 很多依赖都是github上的，所以下载时候很容易错误，如果编译失败了，建议多试几次，我的渣渣网络就经常出问题，有条件的同学可以挂一下梯子，因为[ngrok1.7](https://github.com/inconshreveable/ngrok)的源码很久远了，其中很多依赖找不到了，我修改了源码里一些依赖地址。
 
 ## 使用
-编译成功后，可以在release文件下看到许多版本的ngrok客户端，找到自己需要的版本，拷贝出来重名成ding。具体使用可以看[钉钉的官方文档](https://open.dingtalk.com/document/resourcedownload/http-intranet-penetration)，不想编译的同学可以直接下载我这边二进制版本，或者等待我的pr到钉钉的[官方仓库](https://github.com/open-dingtalk/pierced)。
+编译成功后，可以在release文件下看到许多版本的ngrok客户端，找到自己需要的版本，拷贝出来重名成ding。 
+
+![](https://cdn.jsdelivr.net/gh/wes-lin/pierced-ngrok/assets/info.png)
+![](https://cdn.jsdelivr.net/gh/wes-lin/pierced-ngrok/assets/run.png) 
+
+具体使用可以看[钉钉的官方文档](https://open.dingtalk.com/document/resourcedownload/http-intranet-penetration)，不想编译的同学可以直接下载我这边二进制版本，或者等待我的pr到钉钉的[官方仓库](https://github.com/open-dingtalk/pierced)。
